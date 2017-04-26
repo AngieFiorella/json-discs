@@ -1,0 +1,76 @@
+{
+  "discs": [
+    {
+      "id": 1,
+      "title": "Give Me Love",
+      "group": "Hey! Say! JUMP",
+      "image": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/10/21113020/7e806eb721abc16bbeef00c9e8a6c253-500x499.jpg",
+      "description": ,
+      "date": "2016.12.14",
+      "type": "single"
+    }
+    {
+      "id": 2,
+      "title": "Fantastic Time",
+      "group": "Hey! Say! JUMP",
+      "image": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/10/11151339/fed51464faa57b837c6dde2a6ffbd126-500x441.jpg",
+      "description": ,
+      "date": "2016.10.26",
+      "type": "single"
+    }
+    {
+      "id": 3,
+      "title": "DEAR",
+      "group": "Hey! Say! JUMP",
+      "image": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25133203/f0601a6a2f2568ec45c0eaa0199cd0a3-500x496.jpg",
+      "description": ,
+      "date": "2016.10.26",
+      "type": "album"
+    }
+    {
+      "id": 4,
+      "title": "Maji SUNSHINE",
+      "group": "Hey! Say! JUMP",
+      "image": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25113109/2a97a2bf0bbf60e302d5a8223654d0ed-500x569.jpg",
+      "description": ,
+      "date": "2016.05.11",
+      "type": "single"
+    }
+    {
+      "id": 5,
+      "title": "Live Tour 2015",
+      "group": "Hey! Say! JUMP",
+      "image": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25144643/2bf60c2b63d96c8dfc4b9224a7a33139-500x710.jpg",
+      "description": ,
+      "date": "2016.02.10",
+      "type": "DVD"
+    }
+    {
+      "id": 6,
+      "title": "Kimi Attraction" ,
+      "group": "Hey! Say! JUMP",
+      "image": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25114709/8bdc114222dce8889a23e3703452c168-500x569.jpg",
+      "description": ,
+      "date": "2015.10.21",
+      "type": "single"
+    }
+    {
+      "id": 7,
+      "title": "Jumping CAR",
+      "group": "Hey! Say! JUMP",
+      "image": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25135553/2425131d34d5fa27c26de2959ec307aa-500x496.jpg",
+      "description": ,
+      "date": "2015.06.24",
+      "type": "album"
+    }
+    {
+      "id": 8,
+      "title": "Chau#",
+      "group": "Hey! Say! JUMP",
+      "image": "https://cdn2.j-storm.co.jp/wp-content/uploads/2016/09/25115701/f31e1ef5776bb798afced7130204a6cc-500x569.jpg",
+      "description": ,
+      "date": "2015.04.29",
+      "type": "album"
+    }
+  ]
+}
